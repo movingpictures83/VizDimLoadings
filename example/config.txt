@@ -1,0 +1,2 @@
+Prefix plugins/VizDimLoadings/example/
+Plugin VizDimLoadings inputfile IRLBA.rds outputfile VizDimLoadings.pdf
